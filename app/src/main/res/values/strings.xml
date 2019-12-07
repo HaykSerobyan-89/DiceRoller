@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dice Roller </string>
+    <string name="player1Button">Player 1 </string>
+    <string name="player2Button">Player 2 </string>
+    <string name="textView">Tap to roll !!!</string>
+    <string name="resultPlayers">0</string>
+
+</resources>
